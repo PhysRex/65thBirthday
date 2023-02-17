@@ -17,7 +17,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "http://PhysRex.github.io/65thBday",
+  "homepage": "http://PhysRex.github.io/65thBirthday",
   "devDependencies": {
     "eslint-config-airbnb": "^16.1.0",
     "eslint-plugin-import": "^2.8.0",
